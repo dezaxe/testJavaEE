@@ -1,6 +1,7 @@
 package com.octest.beans;
 
 public class Utilisateur {
+	/**Constante DIX*/
 	private static final int DIX = 10;
 	private static final String MESSAGE_EXCEPTION_NOM_SUP_10_CHAR = "Le nom est trop grand ! (10 caracrtères maximum)";
 	private String nom;
